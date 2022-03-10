@@ -12,7 +12,6 @@ body {
   width: 100%;
   box-sizing: border-box;
   overflow-x: hidden;
-  background: linear-gradient(175deg, #04cdff, #3d6ff8, #015586);
   background-size: 600% 600%;
 
   -webkit-animation: AnimationName 12s ease infinite;
@@ -45,7 +44,7 @@ h1 {
 }
 
 .title h1 {
-  color: #fff;
+  color: rgb(0, 31, 18);
   margin-bottom: 20px;
 }
 
@@ -181,25 +180,24 @@ button {
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-
+/* 
 .btn-hover:hover {
   background-position: 100% 0;
   -o-transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-}
+} */
 
 .btn-hover:focus {
   outline: none;
 }
 
-.btn-hover.color-green {
+.color-green {
   background-image: linear-gradient(
     to right,
-    #44a4fd,
+    #3beb43,
     #3cba92,
     #3bfd8c,
     #2bb673
   );
-  box-shadow: 0 4px 15px 0 rgba(23, 168, 108, 0.75);
 }
