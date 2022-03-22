@@ -7,7 +7,7 @@ import './index.css';
 import './css/login.css'
 import LoginPage from './pages/LoginPage';
 import reportWebVitals from './reportWebVitals';
-import Test from './components/Test';
+// import Test from './components/Test';
 
 // function HelloComponent() {
 //   return HelloComponent;
