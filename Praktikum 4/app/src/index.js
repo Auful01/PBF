@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 // import BlogPost from './container/BlogPost/BlogPost';
 import BlogMahasiswa from './container/Mahasiswa/BlogMahasiswa';
 
+// ReactDOM.render(<BlogPost />, document.getElementById('content'))
 // ReactDOM.render(
 //   <React.StrictMode>
 //     <App />

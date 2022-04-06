@@ -73,7 +73,6 @@ class BlogPost extends Component {
                         <label htmlFor="title" className="col-sm-2 col-form-label">Isi</label>
                         <div className="col-sm-10">
                             <textarea className="form-control" name="body" id="body" onChange={this.handleTambahArtikel} cols="30" rows="10"></textarea>
-                            {/* <input type="text" name="body" onChange={this.handleTambahArtikel} className="form-control" id="body" /> */}
                         </div>
                     </div>
                     <button className="btn btn-primary" type="submit" onClick={this.handleTombolSimpan}>Simpan</button>

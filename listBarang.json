@@ -1,0 +1,114 @@
+{
+  "kitabs": [
+    {
+      "id": 1,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 2,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 3,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 4,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 5,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 6,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 7,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 8,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    },
+    {
+      "id": 9,
+      "namaKitab": "Tafsir Al Misbah",
+      "cetakan": "DKI",
+      "terbitan": "Lirboyo Press",
+      "gambar": "/images/tafsiralmisbah.jpg",
+      "harga": 200000,
+      "deskripsi": "Merupakan Kitab Tafsir Al-Quran"
+    }
+  ],
+  "checkout": [
+    {
+      "userId": "1",
+      "kitabId": 1,
+      "jumlah": "4",
+      "tgl": 1648655787590,
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "kitabId": 1,
+      "tgl": 1648657119266,
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "kitabId": 1,
+      "jumlah": "5",
+      "tgl": 1648657141358,
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "kitabId": 1,
+      "jumlah": "4",
+      "tgl": 1648657952134,
+      "id": 4
+    }
+  ]
+}
