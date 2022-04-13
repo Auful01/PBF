@@ -1,0 +1,55 @@
+{
+  "laptops": [
+    {
+      "id": 1,
+      "nama": "HP Pavilion Gaming 15",
+      "gambar": "/images/hp.jpg",
+      "stok": 5,
+      "harga": 15000000
+    },
+    {
+      "id": 2,
+      "nama": "Lenovo Legion",
+      "gambar": "/images/lenovo.jpg",
+      "stok": 6,
+      "harga": 17000000
+    },
+    {
+      "id": 3,
+      "nama": "Acer Predator",
+      "gambar": "/images/acer.jpg",
+      "stok": 6,
+      "harga": 20000000
+    },
+    {
+      "id": 4,
+      "nama": "Lenovo Legion",
+      "gambar": "/images/lenovo.jpg",
+      "stok": 6,
+      "harga": 42000000
+    },
+    {
+      "id": 5,
+      "nama": "MSI GS Stealth",
+      "gambar": "/images/msi.jpg",
+      "stok": 6,
+      "harga": 32000000
+    }
+  ],
+  "checkout": [
+    {
+      "userId": "1",
+      "kitabId": 1,
+      "jumlah": "3",
+      "tgl": 1649781429529,
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "kitabId": 1,
+      "jumlah": "2",
+      "tgl": 1649781684690,
+      "id": 2
+    }
+  ]
+}
